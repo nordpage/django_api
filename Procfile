@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn intense-plateau-15677.wsgi --log-file -
